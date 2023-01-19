@@ -1,0 +1,15 @@
+{
+    "response": [      
+        {
+            "authorization": [
+                {
+                    "role": "ROLE_POLICY_ADMIN",
+                    "scope": "ALL"
+                }
+            ] ,
+            "username": "devnetuser",
+            "authSource": "internal"
+        }
+    ],
+    "version": "1.0"
+}
